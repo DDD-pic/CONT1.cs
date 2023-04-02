@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.AssemblyInfo.cs
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\CONT\bin\Debug\net6.0\CONT.exe
+C:\Users\Дом\Desktop\CONT\bin\Debug\net6.0\CONT.deps.json
+C:\Users\Дом\Desktop\CONT\bin\Debug\net6.0\CONT.runtimeconfig.json
+C:\Users\Дом\Desktop\CONT\bin\Debug\net6.0\CONT.dll
+C:\Users\Дом\Desktop\CONT\bin\Debug\net6.0\CONT.pdb
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.dll
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\refint\CONT.dll
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.pdb
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\CONT.genruntimeconfig.cache
+C:\Users\Дом\Desktop\CONT\obj\Debug\net6.0\ref\CONT.dll
